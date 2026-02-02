@@ -38,10 +38,16 @@ I prioritize **clean architecture, scalability, and real-world usability** over 
 
 ---
 
-## GitHub Stats
+## Code in Motion
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NYN-05&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYN-05&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NYN-05&theme=radical&hide_border=true&hide_title=true&line=8F44FD&point=FFFFFF&area=true&area_color=8F44FD" height="180" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NYN-05/NYN-05/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
