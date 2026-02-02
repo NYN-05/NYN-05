@@ -37,6 +37,15 @@ I prioritize **clean architecture, scalability, and real-world usability** over 
   🔗 https://github.com/NYN-05/Sports_android
 
 ---
+## Vibes & Visuals
+
+<p align="center">
+  <img src="https://github-stats-brown-nu.vercel.app/api?username=NYN-05&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats-delta-gray.vercel.app/?user=NYN-05&theme=radical&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img 
+---
 
 ## Code in Motion
 
