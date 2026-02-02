@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jhashank Nayan</h1>
-<h3 align="center">Engineering Student | Software Engineering | Machine Learning</h3>
+<h1 align='center'>Hi 👋, I'm Jhashank Nayan</h1>
+<h3 align='center'>Engineering Student | Software Engineering | Machine Learning</h3>
 
 <p align="center">
   <a href="mailto:jnyn2005@gmail.com">📧 Email</a> •
@@ -37,14 +37,14 @@ I prioritize **clean architecture, scalability, and real-world usability** over 
   🔗 https://github.com/NYN-05/Sports_android
 
 ---
+
 ## Vibes & Visuals
 
 <p align="center">
   <img src="https://github-stats-brown-nu.vercel.app/api?username=NYN-05&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats-delta-gray.vercel.app/?user=NYN-05&theme=radical&hide_border=true" height="150" />
 </p>
-<p align="center">
-  <img 
+
 ---
 
 ## Code in Motion
@@ -56,7 +56,7 @@ I prioritize **clean architecture, scalability, and real-world usability** over 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NYN-05/NYN-05/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/NYN-05/NYN-05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
