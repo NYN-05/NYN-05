@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jhashank%20Nayan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Machine%20Learning&descAlignY=51&descAlign=62)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20232A&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </div>
