@@ -56,7 +56,7 @@ I prioritize **clean architecture, scalability, and real-world usability** over 
 ---
 
 <p align="center">
-  <img src="https://github.com/NYN-05/NYN-05/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/NYN-05/NYN-05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
