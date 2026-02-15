@@ -66,7 +66,7 @@ I believe in crafting software that solves real-world problems, prioritizing **c
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NYN-05/NYN-05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/NYN-05/NYN-05/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
 </p>
 
 ---
