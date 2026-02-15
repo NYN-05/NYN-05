@@ -9,9 +9,13 @@
 
 ---
 
-## About
-Engineering student focused on **backend systems, machine learning applications, and full-stack development**.  
-I prioritize **clean architecture, scalability, and real-world usability** over academic demos.
+## 🚀 About Me
+I'm an **Engineering Student** passionate about building robust **Backend Systems** and scalable **Machine Learning Applications**. 
+I believe in crafting software that solves real-world problems, prioritizing **clean architecture** and **maintainability** over quick hacks.
+
+- 🔭 I’m currently working on **Advanced ML Systems**
+- 🌱 I’m currently learning **Distributed Systems & Cloud Architecture**
+- 💬 Ask me about **Python, System Design, and AI**
 
 ---
 
