@@ -1,6 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jhashank%20Nayan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Machine%20Learning&descAlignY=51&descAlign=62)
 
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50">
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20232A&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhashank_Nayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhashanknayan/)](https://www.linkedin.com/in/jhashanknayan/)
 [![Gmail Badge](https://img.shields.io/badge/-jnyn2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnyn2005@gmail.com)](mailto:jnyn2005@gmail.com)
