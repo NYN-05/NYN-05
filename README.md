@@ -42,9 +42,9 @@ I believe in crafting software that solves real-world problems, prioritizing **c
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[System Monitoring & Forecasting](https://github.com/NYN-05/System-Monitoring)** | 📊 Resource monitoring and analytics system with advanced forecasting capabilities. | `Python`, `ML`, `Analytics` |
-| **[Email Scam Detector](https://github.com/NYN-05/MiniProject)** | 🛡️ Text classification pipeline utilizing NLP for detecting scam emails with high accuracy. | `Python`, `NLP`, `Scikit-Learn` |
-| **[Sports Android – AI Fitness](https://github.com/NYN-05/Sports_android)** | 🏋️ Mobile app leveraging pose detection for real-time fitness tracking and analysis. | `Android`, `AI`, `Pose Detection` |
+| **[System Monitoring & Forecasting](https://github.com/NYN-05/System-Monitoring)** | 📊 Resource monitoring and analytics system with advanced forecasting capabilities. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) |
+| **[Email Scam Detector](https://github.com/NYN-05/MiniProject)** | 🛡️ Text classification pipeline utilizing NLP for detecting scam emails with high accuracy. | ![NLP](https://img.shields.io/badge/-NLP-009688?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **[Sports Android – AI Fitness](https://github.com/NYN-05/Sports_android)** | 🏋️ Mobile app leveraging pose detection for real-time fitness tracking and analysis. | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
