@@ -1,11 +1,13 @@
-<h1 align='center'>Hi 👋, I'm Jhashank Nayan</h1>
-<h3 align='center'>Engineering Student | Software Engineering | Machine Learning</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jhashank%20Nayan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Software%20Engineering%20%7C%20Machine%20Learning&descAlignY=51&descAlign=62)
 
-<p align="center">
-  <a href="mailto:jnyn2005@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/jhashanknayan/">LinkedIn</a> •
-  <a href="https://github.com/NYN-05">GitHub</a>
-</p>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jhashank_Nayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhashanknayan/)](https://www.linkedin.com/in/jhashanknayan/)
+[![Gmail Badge](https://img.shields.io/badge/-jnyn2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnyn2005@gmail.com)](mailto:jnyn2005@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-NYN--05-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NYN-05)](https://github.com/NYN-05)
+
+</div>
+
 
 ---
 
