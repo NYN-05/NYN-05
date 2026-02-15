@@ -45,23 +45,19 @@ I believe in crafting software that solves real-world problems, prioritizing **c
 
 ---
 
-## Vibes & Visuals
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-stats-brown-nu.vercel.app/api?username=NYN-05&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats-delta-gray.vercel.app/?user=NYN-05&theme=radical&hide_border=true" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NYN-05&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NYN-05&theme=radical&hide_border=true" height="150" alt="streak graph" />
+</div>
 
----
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NYN-05&theme=radical&hide_border=true&hide_title=true&line=8F44FD&point=FFFFFF&area=true&area_color=8F44FD" height="180" alt="activity graph" />
+</div>
 
-## Code in Motion
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NYN-05&theme=radical&hide_border=true&hide_title=true&line=8F44FD&point=FFFFFF&area=true&area_color=8F44FD" height="180" />
-</p>
-
----
-
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/NYN-05/NYN-05/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
 </p>
