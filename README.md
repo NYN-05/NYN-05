@@ -12,6 +12,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-jnyn2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnyn2005@gmail.com)](mailto:jnyn2005@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-NYN--05-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/NYN-05)](https://github.com/NYN-05)
 [![Profile Views](https://komarev.com/ghpvc/?username=NYN-05&color=blueviolet)](https://github.com/NYN-05)
+<br>
+[![Followers](https://img.shields.io/github/followers/NYN-05?style=social)](https://github.com/NYN-05)
+[![Stars](https://img.shields.io/github/stars/NYN-05?style=social)](https://github.com/NYN-05)
 
 </div>
 
