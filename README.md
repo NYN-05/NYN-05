@@ -35,18 +35,13 @@ I believe in crafting software that solves real-world problems, prioritizing **c
 
 ---
 
-## Featured Projects
-- **System Monitoring & Forecasting**  
-  Resource monitoring and analytics system with forecasting capabilities.  
-  🔗 https://github.com/NYN-05/System-Monitoring
+## 💻 Featured Projects
 
-- **Email Scam Detector (ML)**  
-  Text classification pipeline for detecting scam emails.  
-  🔗 https://github.com/NYN-05/MiniProject
-
-- **Sports Android – AI Fitness App**  
-  Mobile app using pose detection with backend integration.  
-  🔗 https://github.com/NYN-05/Sports_android
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[System Monitoring & Forecasting](https://github.com/NYN-05/System-Monitoring)** | 📊 Resource monitoring and analytics system with advanced forecasting capabilities. | `Python`, `ML`, `Analytics` |
+| **[Email Scam Detector](https://github.com/NYN-05/MiniProject)** | 🛡️ Text classification pipeline utilizing NLP for detecting scam emails with high accuracy. | `Python`, `NLP`, `Scikit-Learn` |
+| **[Sports Android – AI Fitness](https://github.com/NYN-05/Sports_android)** | 🏋️ Mobile app leveraging pose detection for real-time fitness tracking and analysis. | `Android`, `AI`, `Pose Detection` |
 
 ---
 
