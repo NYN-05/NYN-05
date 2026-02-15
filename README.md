@@ -22,8 +22,20 @@
 ---
 
 ## 🚀 About Me
-I'm an **Engineering Student** passionate about building robust **Backend Systems** and scalable **Machine Learning Applications**. 
-I believe in crafting software that solves real-world problems, prioritizing **clean architecture** and **maintainability** over quick hacks.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Jhashank Nayan"
+        self.role = "Engineering Student"
+        self.passion = ["Backend Systems", "Machine Learning", "Clean Code"]
+        self.location = "Global"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something scalable.")
+
+me = Developer()
+me.say_hi()
+```
 
 - 🔭 I’m currently working on **Advanced ML Systems**
 - 🌱 I’m currently learning **Distributed Systems & Cloud Architecture**
@@ -54,8 +66,13 @@ I believe in crafting software that solves real-world problems, prioritizing **c
 
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NYN-05&theme=radical&hide_border=true&hide_title=true&line=8F44FD&point=FFFFFF&area=true&area_color=8F44FD" height="180" alt="activity graph" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+</div>
+
+## 🌎 Global Traffic
+<div align="center">
+  <a href="https://clustrmaps.com/site/1bvb0"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=2a_p5Kj2kKj2kKj2k_2a_p5Kj2k&cl=ffffff" /></a>
+  <!-- Note: You will need to register your repo on ClustrMaps to get a real working map ID, this is a placeholder style -->
 </div>
 
 ### 🐍 Contribution Snake
@@ -70,6 +87,12 @@ I believe in crafting software that solves real-world problems, prioritizing **c
 ### 🤣 Random Dev Joke
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90&animation=fadeIn)
