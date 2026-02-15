@@ -58,12 +58,20 @@ class Developer:
 ---
 
 ## 🛠 Tech Stack
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,html,css,react,redux,nodejs,express,flask,django,mongodb,mysql,postgres,firebase,docker,aws,git,linux,vscode,pycharm,androidstudio&perline=8&theme=light" />
-  </a>
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,html,css&theme=light" />
+  
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,django,tensorflow&theme=light" />
+  
+  <h3>Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,azure&theme=light" />
+  
+  <h3>Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm,androidstudio&theme=light" />
 </div>
-- **Interests:** ML systems, system design, mobile apps (React Native)
 
 ---
 
