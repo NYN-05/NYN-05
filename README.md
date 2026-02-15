@@ -21,25 +21,39 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
+
+> *"First, solve the problem. Then, write the code."*
+
+<table align="center" border="0">
+<tr>
+<td width="55%" align="left">
+
+I'm an **Engineering Student** with a passion for building scalable **Backend Systems** and intelligent **ML Pipelines**.  
+My focus is on writing **clean, maintainable code** and designing architectures that solve real-world problems efficiently.
+
+- 🔭 **Working on:** Advanced ML Systems & Resource Forecasting
+- 🌱 **Learning:** Distributed Systems, Cloud Architecture (AWS/Azure)
+- 💬 **Ask me about:** Python, System Design, REST APIs, and AI
+- 📫 **Reach me at:** [jnyn2005@gmail.com](mailto:jnyn2005@gmail.com)
+
+</td>
+<td width="45%" align="center">
+
 ```python
 class Developer:
     def __init__(self):
         self.name = "Jhashank Nayan"
-        self.role = "Engineering Student"
-        self.passion = ["Backend Systems", "Machine Learning", "Clean Code"]
-        self.location = "Global"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something scalable.")
-
-me = Developer()
-me.say_hi()
+        self.role = "Software Engineer"
+        self.stack = ["Python", "React", "ML"]
+        
+    def goal(self):
+        return "Build scalable solutions"
 ```
 
-- 🔭 I’m currently working on **Advanced ML Systems**
-- 🌱 I’m currently learning **Distributed Systems & Cloud Architecture**
-- 💬 Ask me about **Python, System Design, and AI**
+</td>
+</tr>
+</table>
 
 ---
 
