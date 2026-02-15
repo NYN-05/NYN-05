@@ -51,24 +51,7 @@ I believe in crafting software that solves real-world problems, prioritizing **c
 
 ---
 
-## 🏆 Github Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NYN-05&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="tophies" />
-</div>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NYN-05&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYN-05&layout=compact&theme=radical&hide_border=true" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NYN-05&theme=radical&hide_border=true" alt="streak graph" />
-</div>
 
 <div align="center">
   <br>
