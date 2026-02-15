@@ -78,6 +78,13 @@ I believe in crafting software that solves real-world problems, prioritizing **c
   </picture>
 </p>
 
+### 🤣 Random Dev Joke
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90&animation=fadeIn)
+
 ---
 
 <i>Building practical systems, not just writing code.</i>
