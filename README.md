@@ -1,197 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Jhashank%20Nayan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20ML%20Systems%20•%20Distributed%20Systems&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Jhashank%20Nayan&fontAlign=50&fontAlignY=38&color=0:0f0c29,25:302b63,50:24243e,75:00F5FF,100:8A2BE2&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Backend%20Engineer%20•%20ML%20Systems%20•%20Distributed%20Systems&descAlignY=58" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Backend+Engineer;ML+Systems+Architect;Distributed+Systems+Designer;Performance+Optimization+Specialist;Building+Scalable+Systems+For+The+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=⚡+Backend+Engineer;🚀+ML+Systems+Architect;🔥+Distributed+Systems+Designer;⚙️+Performance+Optimization+Specialist;💻+Building+Scalable+Systems+For+The+Future" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NYN-05&style=for-the-badge&color=blueviolet" />
-<img src="https://img.shields.io/github/followers/NYN-05?style=for-the-badge&color=00f7ff" />
-<img src="https://img.shields.io/github/stars/NYN-05?style=for-the-badge&color=ff00ff" />
-
-</div>
-
----
-
-# ⚡ About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ4aW93N2Q3bWtxM2l1eXN6OXI2emh0b2N2Y3VhMnJ5bXFzY2N3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
-
-```yaml
-name: Jhashank Nayan
-role: Backend Engineer
-focus:
-  - Distributed Systems
-  - Machine Learning
-  - Performance Engineering
-  - Scalable Architectures
-
-currently_learning:
-  - Kubernetes Internals
-  - System Design
-  - ML Infrastructure
-
-philosophy:
-  "Build fast. Scale intelligently. Optimize relentlessly."
-```
-
-<br clear="right"/>
-
----
-
-# 🛠 Tech Arsenal
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,bash" />
-
----
-
-## Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring" />
-
----
-
-## Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,linux" />
-
----
-
-## AI / ML / CV
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-
----
-
-## Dev Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NYN-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYN-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="4px">
 
 <br/>
 
-<div align="center">
-
-<img width="90%" src="https://streak-stats.demolab.com?user=NYN-05&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NYN-05&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://komarev.com/ghpvc/?username=NYN-05&style=for-the-badge&color=00F5FF" />
+<img src="https://img.shields.io/github/followers/NYN-05?style=for-the-badge&logo=github&color=8A2BE2" />
+<img src="https://img.shields.io/github/stars/NYN-05?style=for-the-badge&logo=github&color=FF00FF" />
+<img src="https://img.shields.io/badge/Profile-Ultra%20Animated-00F5FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NYN-05&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7" />
+# ⚡ CYBER TECH STACK ⚡
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,rust,bash,nodejs,express,django,fastapi,spring,react,nextjs,postgres,mongodb,redis,docker,kubernetes,aws,linux,tensorflow,pytorch,opencv,git,github,vscode,nginx" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
+
+# 🚀 GITHUB ANALYTICS 🚀
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NYN-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F5FF&title_color=00F5FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYN-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=NYN-05&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF" />
+
+</div>
+
+---
 
 <div align="center">
+
+# 📈 CONTRIBUTION MATRIX 📈
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NYN-05&theme=tokyo-night&hide_border=true&area=true&radius=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 DIGITAL ACHIEVEMENTS 🏆
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=NYN-05&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚙️ SYSTEM STATUS ⚙️
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NYN-05&theme=tokyonight" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NYN-05&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NYN-05&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NYN-05&theme=tokyonight" width="32%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS 🚀
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
 ## 📊 System Monitor
 
-### Real-time observability platform
-
-⚡ Predictive anomaly detection  
-⚡ High-speed metrics pipeline  
-⚡ Performance analytics dashboard  
-
-### Stack
-`Python` `TensorFlow` `Docker` `PostgreSQL`
-
 <img src="https://skillicons.dev/icons?i=python,tensorflow,docker,postgres" />
+
+<img src="https://img.shields.io/badge/Realtime-Analytics-00F5FF?style=for-the-badge" />
 
 </td>
 
-<td width="50%">
+<td width="33%">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
 
 ## 🛡 Scam Detector
 
-### NLP-powered fraud detection
-
-⚡ Real-time classification  
-⚡ Low latency inference  
-⚡ Scalable API architecture  
-
-### Stack
-`FastAPI` `TensorFlow` `AWS`
-
 <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,aws" />
 
-</td>
-</tr>
+<img src="https://img.shields.io/badge/NLP-Fraud%20Detection-8A2BE2?style=for-the-badge" />
 
-<tr>
-<td width="50%">
+</td>
+
+<td width="33%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
 
 ## 💪 Pose Tracker
 
-### AI-powered posture analysis
-
-⚡ Real-time pose estimation  
-⚡ Motion feedback system  
-⚡ Optimized inference engine  
-
-### Stack
-`OpenCV` `TensorFlow` `React Native`
-
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow,react" />
 
-</td>
-
-<td width="50%">
-
-## ⚡ More Projects
-
-Explore repositories for:
-
-- distributed systems
-- backend architectures
-- ml pipelines
-- automation tools
-- scalable applications
-
-<a href="https://github.com/NYN-05?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+<img src="https://img.shields.io/badge/AI-Computer%20Vision-FF00FF?style=for-the-badge" />
 
 </td>
 </tr>
@@ -201,42 +131,46 @@ Explore repositories for:
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
+
+# 🌌 ANIMATED VISUALS 🌌
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br/><br/>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="70%" />
+
+</div>
+
+---
 
 <div align="center">
 
+# 🌐 CONNECT 🌐
+
 <a href="https://github.com/NYN-05">
-<img src="https://skillicons.dev/icons?i=github" width="60" />
+<img src="https://skillicons.dev/icons?i=github" width="70" />
 </a>
 
 <a href="https://www.linkedin.com/in/jhashanknayan/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="70" />
 </a>
 
 <a href="mailto:jnyn2005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60" />
+<img src="https://skillicons.dev/icons?i=gmail" width="70" />
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=2" width="100%" />
 
-# 💡 Engineering Philosophy
+<br/>
 
-<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### ⚡ "Scalable systems are not built accidentally."
+<br/><br/>
 
-### 🚀 "Optimization is a mindset, not a feature."
-
-### 🧠 "Good engineers write code. Great engineers design systems."
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0c29,50:302b63,100:24243e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f0c29,25:302b63,50:24243e,75:00F5FF,100:8A2BE2" width="100%" />
 
 </div>
