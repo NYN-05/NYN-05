@@ -135,7 +135,7 @@
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="180"/>
 
@@ -152,7 +152,7 @@
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" height="180"/>
 
@@ -169,7 +169,7 @@
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="180"/>
 
