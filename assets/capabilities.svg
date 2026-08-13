@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" role="img" aria-label="Capability modules: languages, infrastructure and data, ML and AI proficiency meters">
+  <defs>
+    <style>
+      .blink { animation: blink 1.15s steps(1) infinite; }
+      @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+      .pulseV { animation: pulse 2.8s ease-in-out infinite; }
+      .pulseC { animation: pulse 2.8s ease-in-out 1.4s infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+      .glowA { animation: glow 8s ease-in-out infinite; }
+      .glowB { animation: glow 8s ease-in-out 4s infinite; }
+      @keyframes glow { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+    </style>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#16202C" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glowCyan" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="540" fill="#0A0F14"/>
+  <rect width="1280" height="540" fill="url(#grid)"/>
+  <ellipse cx="320" cy="260" rx="430" ry="300" fill="url(#glowCyan)" class="glowA"/>
+  <ellipse cx="1000" cy="300" rx="430" ry="300" fill="url(#glowViolet)" class="glowB"/>
+
+  <rect x="24" y="20" width="1232" height="500" rx="16" fill="#0D131A" fill-opacity="0.92" stroke="#223040" stroke-width="1.5"/>
+  <rect x="26" y="22" width="1228" height="1.5" fill="#FFFFFF" opacity="0.05"/>
+
+  <path d="M40 36h16v16" fill="none" stroke="#2E3D50" stroke-width="2"/>
+  <path d="M1240 36h-16v16" fill="none" stroke="#2E3D50" stroke-width="2"/>
+  <path d="M40 504h16v-16" fill="none" stroke="#2E3D50" stroke-width="2"/>
+  <path d="M1240 504h-16v-16" fill="none" stroke="#2E3D50" stroke-width="2"/>
+
+  <text x="48" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="3" fill="#94A3B8">CAPABILITY MODULES ▸ ONLINE</text>
+  <circle cx="1154" cy="58" r="4" fill="#22D3EE" class="pulseC"/>
+  <circle cx="1194" cy="58" r="4" fill="#8B5CF6" class="pulseV"/>
+  <line x1="24" y1="80" x2="1256" y2="80" stroke="#1C2733" stroke-width="1.5"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="64" y="122" font-size="21" letter-spacing="2" fill="#67E8F9">LANGUAGES</text>
+    <rect x="64" y="134" width="56" height="2" fill="#22D3EE" opacity="0.6"/>
+    <text x="468" y="122" font-size="21" letter-spacing="2" fill="#A78BFA">INFRA &amp; DATA</text>
+    <rect x="468" y="134" width="56" height="2" fill="#8B5CF6" opacity="0.6"/>
+    <text x="872" y="122" font-size="21" letter-spacing="2" fill="#67E8F9">ML &amp; AI</text>
+    <rect x="872" y="134" width="56" height="2" fill="#22D3EE" opacity="0.6"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#CBD5E1">
+    <text x="64" y="168">Python</text>
+    <text x="64" y="252">Go</text>
+    <text x="64" y="336">TypeScript</text>
+    <text x="64" y="420">C++</text>
+    <text x="468" y="168">PostgreSQL</text>
+    <text x="468" y="252">Redis</text>
+    <text x="468" y="336">Docker</text>
+    <text x="468" y="420">AWS</text>
+    <text x="872" y="168">PyTorch</text>
+    <text x="872" y="252">OpenCV</text>
+    <text x="872" y="336">FastAPI</text>
+    <text x="872" y="420">TensorFlow</text>
+  </g>
+
+  <g>
+    <rect x="64" y="184" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="64" y="184" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="295" dur="1.4s" begin="0.3s" fill="freeze"/>
+    </rect>
+    <rect x="64" y="268" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="64" y="268" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="254" dur="1.4s" begin="0.5s" fill="freeze"/>
+    </rect>
+    <rect x="64" y="352" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="64" y="352" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="242" dur="1.4s" begin="0.7s" fill="freeze"/>
+    </rect>
+    <rect x="64" y="436" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="64" y="436" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="223" dur="1.4s" begin="0.9s" fill="freeze"/>
+    </rect>
+
+    <rect x="468" y="184" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="468" y="184" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="273" dur="1.4s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <rect x="468" y="268" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="468" y="268" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="260" dur="1.4s" begin="0.6s" fill="freeze"/>
+    </rect>
+    <rect x="468" y="352" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="468" y="352" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="279" dur="1.4s" begin="0.8s" fill="freeze"/>
+    </rect>
+    <rect x="468" y="436" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="468" y="436" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="267" dur="1.4s" begin="1s" fill="freeze"/>
+    </rect>
+
+    <rect x="872" y="184" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="872" y="184" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="264" dur="1.4s" begin="0.45s" fill="freeze"/>
+    </rect>
+    <rect x="872" y="268" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="872" y="268" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="254" dur="1.4s" begin="0.65s" fill="freeze"/>
+    </rect>
+    <rect x="872" y="352" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="872" y="352" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="279" dur="1.4s" begin="0.85s" fill="freeze"/>
+    </rect>
+    <rect x="872" y="436" width="310" height="10" rx="5" fill="#1B2531"/>
+    <rect x="872" y="436" width="310" height="10" rx="5" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="233" dur="1.4s" begin="1.05s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" text-anchor="end" fill="#67E8F9" opacity="0">
+    <text x="390" y="196">
+      95
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.1s" fill="freeze"/>
+    </text>
+    <text x="390" y="280">
+      82
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.3s" fill="freeze"/>
+    </text>
+    <text x="390" y="364">
+      78
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+    </text>
+    <text x="390" y="448">
+      72
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.7s" fill="freeze"/>
+    </text>
+    <text x="794" y="196">
+      88
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
+    </text>
+    <text x="794" y="280">
+      84
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>
+    </text>
+    <text x="794" y="364">
+      90
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>
+    </text>
+    <text x="794" y="448">
+      86
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.8s" fill="freeze"/>
+    </text>
+    <text x="1198" y="196">
+      85
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.15s" fill="freeze"/>
+    </text>
+    <text x="1198" y="280">
+      82
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.35s" fill="freeze"/>
+    </text>
+    <text x="1198" y="364">
+      90
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.55s" fill="freeze"/>
+    </text>
+    <text x="1198" y="448">
+      75
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.75s" fill="freeze"/>
+    </text>
+  </g>
+
+  <text x="64" y="488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#64748B">modules: 12 / 12 online</text>
+  <rect x="284" y="473" width="9" height="19" fill="#67E8F9" class="blink"/>
+  <text x="1216" y="488" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#64748B">proficiency = shipped code, not vibes</text>
+</svg>
