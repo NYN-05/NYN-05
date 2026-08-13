@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 22" width="12" height="22" role="img" aria-label="blinking cursor">
+  <style>
+    .blink { animation: blink 1.15s steps(1) infinite; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="10" height="20" rx="2" fill="#D8FF5E" class="blink"/>
+</svg>
